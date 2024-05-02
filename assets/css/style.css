@@ -7,3 +7,8 @@ html {
 body {
   font-family: "Raleway", sans-serif;
 }
+
+.email {
+  width: 200px;
+  overflow-wrap: break-word;
+}
